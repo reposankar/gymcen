@@ -1,2 +1,3 @@
-features initiated
-bug fix 1 on main feature
+implementing feature-1
+bug fix 1 on feature-1
+
