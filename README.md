@@ -1,3 +1,2 @@
 # gymcen
-
-Welcome to GymCen, a Gym Center Management System.
+Welcome to GymCen application - a Gym Center Management System.
