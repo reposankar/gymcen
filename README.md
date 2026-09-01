@@ -8,3 +8,4 @@ Members attendance system
     App interface to the Bio system 
 
 bugfix1
+bugfix2
