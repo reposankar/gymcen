@@ -6,7 +6,7 @@ Modules
 Members attendance system
     Biometric entry system
     App interface to the Bio system 
-
 bugfix1
 bugfix2
 bugfix3
+new feature 1
