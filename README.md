@@ -1,8 +1,13 @@
-# gymcen
+# GymCen (Gym Center Management System)
+
+
+
 Welcome to GymCen application - a Gym Center Management System.
-GymCen is a progressive application.
+## GymCen is a progressive application.
 Initial version include Members attendance management system integrated with biometric attendance marking system.
-Modules
+
+
+### Modules
 Members attendance system
     Biometric entry system
     App interface to the Bio system 
