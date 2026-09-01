@@ -9,3 +9,4 @@ Members attendance system
 
 bugfix1
 bugfix2
+bugfix3
